@@ -1,5 +1,5 @@
 # MSc Dissertation
-This repository contains my dissertation for the MSc in Applied Social Data Science at LSE ([LSE_MSc_Dissertation.pdf](LSE_MSc_Dissertation.pdf)). 
+This repository contains my dissertation for the MSc in Applied Social Data Science at the LSE ([LSE_MSc_Dissertation.pdf](LSE_MSc_Dissertation.pdf)). 
 
 I use automated dictionary-based sentiment analysis to examine the relationship between inﬂation-related news coverage and inﬂation expectations over a 60-year period. I also use word embedding, an emerging technique in natural language processing, to show that semantic associations of the word “inﬂation” (as used in the news) have shifted quite dramatically in the periods before and after the Volcker disinﬂation. 
 
